@@ -1,0 +1,3 @@
+C:/Users/rrivas/CLionProjects/prog3_concurrencia_mensajeria/cmake-build-debug/CMakeFiles/prog3_concurrencia_mensajeria.dir
+C:/Users/rrivas/CLionProjects/prog3_concurrencia_mensajeria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rrivas/CLionProjects/prog3_concurrencia_mensajeria/cmake-build-debug/CMakeFiles/rebuild_cache.dir

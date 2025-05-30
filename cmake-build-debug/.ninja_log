@@ -1,0 +1,17 @@
+# ninja log v6
+1	421	7702650465750336	CMakeFiles/prog3_concurrencia_mensajeria.dir/main.cpp.obj	fe962cd7d3e3fe4e
+422	534	7702650469958360	prog3_concurrencia_mensajeria.exe	575d3b8955fb9add
+3	368	7702651292482096	CMakeFiles/prog3_concurrencia_mensajeria.dir/main.cpp.obj	fe962cd7d3e3fe4e
+369	470	7702651296141217	prog3_concurrencia_mensajeria.exe	575d3b8955fb9add
+5	530	7702658388790777	CMakeFiles/prog3_concurrencia_mensajeria.dir/main.cpp.obj	fe962cd7d3e3fe4e
+530	643	7702658394047125	prog3_concurrencia_mensajeria.exe	575d3b8955fb9add
+3	538	7702659253910186	CMakeFiles/prog3_concurrencia_mensajeria.dir/main.cpp.obj	fe962cd7d3e3fe4e
+538	643	7702659259271056	prog3_concurrencia_mensajeria.exe	575d3b8955fb9add
+3	544	7702678566563796	CMakeFiles/prog3_concurrencia_mensajeria.dir/main.cpp.obj	fe962cd7d3e3fe4e
+544	661	7702678571972331	prog3_concurrencia_mensajeria.exe	575d3b8955fb9add
+3	528	7702679648443646	CMakeFiles/prog3_concurrencia_mensajeria.dir/main.cpp.obj	fe962cd7d3e3fe4e
+528	633	7702679653694363	prog3_concurrencia_mensajeria.exe	575d3b8955fb9add
+3	664	7702685789809482	CMakeFiles/prog3_concurrencia_mensajeria.dir/main.cpp.obj	fe962cd7d3e3fe4e
+664	787	7702685796425765	prog3_concurrencia_mensajeria.exe	575d3b8955fb9add
+3	651	7702685994217289	CMakeFiles/prog3_concurrencia_mensajeria.dir/main.cpp.obj	fe962cd7d3e3fe4e
+651	775	7702686000704400	prog3_concurrencia_mensajeria.exe	575d3b8955fb9add
