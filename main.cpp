@@ -14,13 +14,16 @@ void ejercicio_1() {
     std::cout << q1.back() << std::endl;
 
     std::cout << std::string(20, '-') << std::endl;
-    // while (!q2.empty()) {
-    //     std::cout << q2.front() << std::endl;
-    //     q2.pop();
-    // }
+
+    auto q2 = q1;
+    while (!q2.empty()) {
+        std::cout << q2.front() << std::endl;
+        q2.pop();
+    }
     std::cout << std::string(20, '-') << std::endl;
     if (q1.empty()) { std::cout << "Queue is empty" << std::endl; }
     std::cout << q1.size() << std::endl;
+    std::cout << q2.size() << std::endl;
 }
 
 void ejercicio_2() {
@@ -44,6 +47,6 @@ void ejercicio_2() {
 }
 
 int main() {
-    // ejercicio_1();
-    ejercicio_2();
+    ejercicio_1();
+    // ejercicio_2();
  }
